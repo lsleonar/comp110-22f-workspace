@@ -1,5 +1,6 @@
 """Dictionary related utility functions."""
 
+<<<<<<< HEAD
 
 __author__ = "730621513"
 
@@ -95,3 +96,8 @@ def count(random_list: list[str]) -> dict[str, int]:
         else:
             empty_dict[item] = 1
     return empty_dict
+=======
+__author__ = ""
+
+# Define your functions below
+>>>>>>> d09154944ca6f9cb86e4fefc7877bd6b3426dbd5
